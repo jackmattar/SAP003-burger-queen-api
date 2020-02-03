@@ -33,6 +33,7 @@ Object.keys(db).forEach((modelName) => {
   }
 })
 
+'banana'
 db.sequelize = sequelize
 db.Sequelize = Sequelize
 
